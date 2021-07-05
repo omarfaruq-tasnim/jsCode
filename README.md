@@ -1,2 +1,1 @@
-# jsCode
 # Javascript_Code

@@ -14,7 +14,6 @@ function cbf(a){
 arr.forEach(cbf);
 
 
-
 console.log("......../ return the function /......");
 
 function A(name){
